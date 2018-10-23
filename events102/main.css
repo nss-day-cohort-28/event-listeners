@@ -1,0 +1,27 @@
+body {
+  font-size: 2em;
+}
+
+ul>li {
+  display: inline;
+  list-style-type: none;
+  margin: 5px 15px 0 15px;
+  background-color: goldenrod;
+  padding: 5px;
+}
+
+.visible {
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
+
+.rand-btn {
+  width: 75px;
+  height: 40px;
+  font-size: .5em;
+  border-radius: 10px;
+  background: lightgreen
+}
